@@ -1,0 +1,68 @@
+const LATEST = [
+  {
+    id: 5,
+    name: "PUMA RS-X Reinvent Women's Sneakers",
+    image: "/src/upload/product-5.avif",
+    new_price: 89.99,
+    old_price: 120.0,
+    description: "Chunky design meets comfort in this reinvented classic.",
+  },
+  {
+    id: 6,
+    name: "PUMA Future Rider Play On Men's Shoes",
+    image: "/src/upload/product-6.avif",
+    new_price: 75.0,
+    old_price: 110.0,
+    description: "Retro vibes with modern cushioning for daily streetwear.",
+  },
+  {
+    id: 7,
+    name: "PUMA Carina 2.0 Women's Sneakers",
+    image: "/src/upload/product-7.avif",
+    new_price: 65.0,
+    old_price: 95.0,
+    description: "Tennis-inspired style with a fresh modern twist.",
+  },
+  {
+    id: 8,
+    name: "PUMA Velocity Nitro 2 Running Shoes",
+    image: "/src/upload/product-8.avif",
+    new_price: 120.0,
+    old_price: 160.0,
+    description: "High-performance running shoes with Nitro Foam technology.",
+  },
+  {
+    id: 9,
+    name: "PUMA Smash v2 Sneakers",
+    image: "/src/upload/product-9.avif",
+    new_price: 60.0,
+    old_price: 90.0,
+    description: "Clean, classic look perfect for casual outfits.",
+  },
+  {
+    id: 10,
+    name: "PUMA Softride Premier Slip-On",
+    image: "/src/upload/product-10.avif",
+    new_price: 70.0,
+    old_price: 100.0,
+    description: "Easy slip-on with superior cushioning and a sleek profile.",
+  },
+  {
+    id: 11,
+    name: "PUMA Tazon 6 FM Men's Training Shoes",
+    image: "/src/upload/product-11.avif",
+    new_price: 79.99,
+    old_price: 110.0,
+    description: "Stable cushioning and bold style for your workouts.",
+  },
+  {
+    id: 12,
+    name: "PUMA CA Pro Classic",
+    image: "/src/upload/product-12.avif",
+    new_price: 85.0,
+    old_price: 130.0,
+    description: "Iconic ‘80s court style reimagined with streetwear flair.",
+  },
+];
+
+export default LATEST;
